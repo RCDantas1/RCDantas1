@@ -6,13 +6,13 @@
 ## Sobre mim
 - 🎓 Atualmente estudando: Desenvolvimento de Sistemas e Internet das Coisas (IoT)  
 - 💻 Desenvolvimento de Sistemas: programação estruturada, orientação a objetos, banco de dados, programação web.  
-- 💻 Pós-graduação em IoT: sistemas embarcados, programação estrutururada, sensores e atuadores, protocolos IoT, eletroeletrônica, microcontroladores e integração com cloud
+- 💻 Pós-graduação em IoT: sistemas embarcados, programação baixo nível, sensores e atuadores, protocolos IoT, eletroeletrônica, microcontroladores e integração com cloud
 - ☁️ Cloud Computing AWS: fundamentos de cloud, EC2, S3, IAM, redes/VPC, segurança, bancos de dados, conceitos de armazenamento, monitoramento e troubleshooting etc  
 
 ---
 
 ## Tecnologias e Ferramentas
-- Linguagens: C, C++, Python, Delphi  
+- Linguagens: C, C++, Java, Python, Delphi  
 - Frontend: HTML, CSS   
 - IoT / Embedded: MQTT, ESP32, Arduino, Thinkercad, Wokwi  
 - Banco de dados: MySQL  
@@ -20,7 +20,7 @@
 ---
 
 ## Certificações
-- AWS Certified Cloud Practitioner (em preparação)
+- AWS Certified Cloud Practitioner
 
 ---
 
