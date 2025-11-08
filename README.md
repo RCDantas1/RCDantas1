@@ -8,7 +8,7 @@
 - 💻 Desenvolvimento de Sistemas: programação estruturada, orientação a objetos, banco de dados, programação web.  
 - 💻 Pós-graduação em IoT: sistemas embarcados, programação baixo nível, sensores e atuadores, protocolos IoT, eletroeletrônica, microcontroladores e integração com cloud
 - ☁️ Cloud Computing AWS: fundamentos de cloud, EC2, S3, IAM, redes/VPC, segurança, bancos de dados, conceitos de armazenamento, monitoramento e troubleshooting etc  
-
+- <img width="25" height="25" src="https://github.com/user-attachments/assets/9e51caf2-2f92-49ee-876f-745c26144c7a" /> Bacharel em Contabilidade
 ---
 
 ## Tecnologias e Ferramentas
@@ -16,6 +16,14 @@
 - Frontend: HTML, CSS   
 - IoT / Embedded: MQTT, ESP32, Arduino, Thinkercad, Wokwi  
 - Banco de dados: MySQL  
+
+---
+
+## Onde estudo/estudei
+- 🎓 IFRO 
+- 🎓 IF Sul de Minas
+- 🎓 UNIASSELVI
+- 🎓 Escola da Nuvem
 
 ---
 
