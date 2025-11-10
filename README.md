@@ -8,7 +8,7 @@
 - 💻 Desenvolvimento de Sistemas: programação estruturada, orientação a objetos, banco de dados, programação web.  
 - 💻 Pós-graduação em IoT: sistemas embarcados, programação baixo nível, sensores e atuadores, protocolos IoT, eletroeletrônica, microcontroladores e integração com cloud
 - ☁️ Cloud Computing AWS: fundamentos de cloud, EC2, S3, IAM, redes/VPC, segurança, bancos de dados, conceitos de armazenamento, monitoramento e troubleshooting etc  
-- <img width="25" height="25" src="https://github.com/user-attachments/assets/9e51caf2-2f92-49ee-876f-745c26144c7a" /> Bacharel em Contabilidade
+-  Bacharel em Contabilidade
 ---
 
 ## Tecnologias e Ferramentas
@@ -45,8 +45,8 @@
 ---
 
 ## Estatísticas do GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=RCDantas1&layout=compact&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RCDantas1&layout=compact)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RCDantas1&show_icons=true&theme=default)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RCDantas1&theme=default)
 
