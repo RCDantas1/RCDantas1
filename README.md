@@ -45,7 +45,7 @@
 ---
 
 ## Estatísticas do GitHub
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=RCDantas1&layout=compact&theme=default)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RCDantas1&show_icons=true&theme=default)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RCDantas1&theme=default)
